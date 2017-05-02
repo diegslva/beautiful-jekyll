@@ -3,10 +3,13 @@ layout: post
 title: Rolling window with Pytorch
 image: /img/hello_world.jpeg
 tags:
-  - random
-  - exciting-stuff
+  - rolling window
+  - pytorch
+  - deep learning
+  - stock market
 published: true
 subtitle: Using pytorch for pratical things - rolling/sliding window
+date: '2017-05-02'
 ---
 
 ## Simple way to make rolling window with pytorch
