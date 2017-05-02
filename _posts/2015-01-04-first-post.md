@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: Rolling window with Pytorch
 image: /img/hello_world.jpeg
 tags:
   - random
@@ -9,13 +9,13 @@ published: true
 subtitle: Using pytorch for pratical things - rolling/sliding window
 ---
 
-## Rolling window with Pytorch
+## Simple way to make rolling window with pytorch
 
 I always make my neural network and deep learning stuffs using numpy from scratch ( this keep my mind always usefull ) and off couse for me, better for debug.
-After heavly use Tensor Flow and discover **Pytorch** I just love.
+After heavly use _Tensor Flow_ and discover **Pytorch** I just love.
 First because 95% off my models ( _actually not my but a implementation of many papers_ ) has been done from scratch ( and make my head explode many times ), see a framework make some things `easy` for you it's just like win in your birthday a box of cold beer from your girlfriend ( if you drink offcourse ).
 
-So, when I start, first problem that I have was generate rolling windows just using pytorch (not with numpy), just with a simple line or couple of stride tricks but after read the docs I see how this was easy and pratical:
+So, when I start, first problem that I have was generate rolling windows ( _or slide window if you prefer_) just using pytorch (not with numpy), just with a simple line or couple of stride tricks but after read the docs I see how this was easy and pratical:
 
 	# import torch
 	import torch
