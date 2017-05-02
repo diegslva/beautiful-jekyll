@@ -16,9 +16,9 @@ First because 95% off my models ( actually not my but a implementation of many p
 
 So, when I start, first problem that I have was generate rolling windows just using pytorch and after read the docs I see how this was easy:
 
-# import torch`
+# import torch
 import torch
-
+`
 def rolling_window(x, window_size, step_size=1)
   # make a range sequence sample
   x = torch.range(1,20)
@@ -26,5 +26,6 @@ def rolling_window(x, window_size, step_size=1)
   # unfold dimension to make our rolling window
   # ie. window size of 5, step size of 1
   return x.unfold(0,window_size,step_size)
+`
 `
 
