@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'Deep Learning with Pytorch, a Simple Classifier'
 ---
 ## Simple Classifier using Pytorch
