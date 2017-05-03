@@ -18,9 +18,14 @@ This post that is not intend to teach about `what is` and more like `run it`.
 Probably I'll try post more articles with this intend!
 So, just copy, paste and run using python and see pytorch make your magic.
 
+**Requirements**
+_I assume that you know what is a framework and you have it installed. If you don't, just go to http://pytorch.org/ and follow the easy steps ( actually is just one ;) )_
+
+
+
     import torch
     import torch.nn as nn
-    import numpy as np
+    from torch import np
     import torch.optim as optim
     from torch.autograd import Variable
 
