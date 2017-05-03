@@ -1,11 +1,11 @@
 ---
 layout: post
 published: false
-title: ''
+title: 'Deep Learning with Pytorch, a Simple Classifier'
 ---
 ## Simple Classifier using Pytorch
 
-Pytorch it's for me a great framework in this days. A great comunity that help you if you need any time and with fast aswers for you.
+**Pytorch** it's for me a great framework in this days. A great comunity that help you if you need any time and with fast aswers for you.
 BTW, check out here [https://discuss.pytorch.org/latest](https://discuss.pytorch.org/latest) if you start with pytorch or even if you have a lot of problem with your beloved tensors!
 
 So, in this post I just want to show you a simple but no trivial classifier with a toy dataset. For me I always want a example with the dataset include for fast try! 
