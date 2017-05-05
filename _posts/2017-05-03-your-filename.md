@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: 'Deep Learning with Pytorch, a Simple Classifier'
-image: /img/post_image_2.jpg
+image: /img/post_image_4.jpg
 subtitle: A Simple but not trivial Classifier with Pytorch
 ---
 **Pytorch** it's for me a great framework in this days. A great comunity that help you if you need any time and with fast aswers for you.
