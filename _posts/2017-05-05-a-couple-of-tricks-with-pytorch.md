@@ -3,7 +3,7 @@ layout: post
 published: true
 title: A couple of tricks with Pytorch
 subtitle: Little things with Pytorch that make a big headache disapper
-image: /img/hello_world.jpeg
+image: /img/post_image_1.jpg
 ---
 ## Little things with Pytorch that make a big headache disapper.
 
