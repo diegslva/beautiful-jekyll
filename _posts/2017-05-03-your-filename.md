@@ -3,10 +3,8 @@ layout: post
 published: true
 title: 'Deep Learning with Pytorch, a Simple Classifier'
 image: /img/post_image_2.jpg
-subtitle: A simple but not trivial classifier with Pytorch
+subtitle: A Simple but not trivial Classifier with Pytorch
 ---
-## Simple Classifier using Pytorch
-
 **Pytorch** it's for me a great framework in this days. A great comunity that help you if you need any time and with fast aswers for you.
 BTW, check out here [https://discuss.pytorch.org/latest](https://discuss.pytorch.org/latest) if you start with pytorch or even if you have a lot of problem with your beloved tensors!
 
