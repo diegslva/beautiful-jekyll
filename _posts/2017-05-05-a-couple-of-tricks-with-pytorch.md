@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: A couple of tricks with Pytorch
 ---
 ## Little things with Pytorch that make a big headache disapper.
