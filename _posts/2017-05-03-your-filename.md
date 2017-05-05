@@ -2,6 +2,8 @@
 layout: post
 published: true
 title: 'Deep Learning with Pytorch, a Simple Classifier'
+image: /img/post_image_2.jpg
+subtitle: A simple but not trivial classifier with Pytorch
 ---
 ## Simple Classifier using Pytorch
 
