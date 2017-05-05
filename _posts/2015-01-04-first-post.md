@@ -11,7 +11,6 @@ published: true
 subtitle: Using pytorch for pratical things - rolling/sliding window
 date: '2017-05-02'
 ---
-
 I always make my neural network and deep learning stuffs using numpy from scratch ( this keep my mind always usefull ) and off couse for me, better for debug.
 After heavly use _Tensor Flow_ and discover **Pytorch** I just love.
 First because 95% off my models ( _actually not my but a implementation of many papers_ ) has been done from scratch ( and make my head explode many times ), see a framework make some things `easy` for you it's just like win in your birthday a box of cold beer from your girlfriend ( if you drink offcourse ).
