@@ -3,10 +3,8 @@ layout: post
 published: true
 title: A couple of tricks with Pytorch
 subtitle: Little things with Pytorch that make a big headache disapper
-image: /img/post_image_1.jpg
+image: /img/post_image_3.png
 ---
-## Little things with Pytorch that make a big headache disapper.
-
 This post it's more like a _start_ of a recepie for things that I heavily use every day.
 If you are like me that have platonic love for numpy and use for years since your born then inside Pytorch you don't have to mutch worry.
 Numpy it's a awesome tool but if you need use **GPU** for you massive mega matrix multiplication so our beloved numpy can't help us. 
