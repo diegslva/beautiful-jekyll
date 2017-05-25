@@ -6,11 +6,11 @@ subtitle: How to avoid stuck just 'training' without understanding models
 date: '2017-05-25'
 image: /img/post_image_5.jpg
 ---
-Everybody 'now' talks about Neural Networks, Deep learning, and quickly first think that folks do was get some library, put raw data inside e 'Damn! I am a Data Science.'
+Everybody '_now_' talks about Neural Networks, **Deep learning**, and quickly first think that folks do was get some library, put raw data inside e 'Damn! I am a Data Science.'
 
-Far enough! However, this is not true, sorry to say that. Know how to use a library is great to small or huge problems but this does not help you when you need to tell your boss when a client will say a goodbye to him in the next few months or predict when one of your millions of costumers will try fraud your system, of course, with a high accuracy or minimum false positives.
+Fair enough! However, this is not true, sorry to say that. Know how to use a library is great to small or huge problems but this does not help you when you need to tell your boss when a client will say a goodbye to him in the next few months or predict when one of your millions of costumers will try fraud your system, of course, with a high accuracy or minimum false positives.
 
-Ok, maybe you can ( again, small problems perhaps don't require a massive neural network to solve then ) and when you get this issue front of you, sorry my friend, you will need to know 'How this Neural Magic thing works behind the scenes'
+Ok, maybe you can ( _again, small problems perhaps don't require a massive neural network to solve it_ ) and when you get this issue front of you, sorry my friend, you will need to know 'How this Neural Magic thing works behind the scenes'
 
 ## Make simple, but not so simple
 Many problems can be resolve with small twicks but if you dont know how the basics works, how you can resolve such a think
