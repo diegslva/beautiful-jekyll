@@ -28,7 +28,7 @@ Amazing guy, amazing blog!
 Trust me, many examples, to make you start to understand how a model can use 'in the right way.'
 
 [http://machinelearningmastery.com/](http://machinelearningmastery.com/)
----
+
 
 
 ### I am Trask
@@ -36,7 +36,7 @@ The 'Real Deal' to understand how things work from scratch using numpy!
 Andrew Trask do an excellent job with this book, ( it's not finished yet, but you can read the first chapters that have a good, understandable content !) and of course, your blog has great posts as well
 
 [http://iamtrask.github.io/2016/08/17/grokking-deep-learning/](http://iamtrask.github.io/2016/08/17/grokking-deep-learning/)
----
+
 
 
 ### Luis Serrano
